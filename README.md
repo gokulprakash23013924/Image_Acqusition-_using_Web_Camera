@@ -38,8 +38,8 @@ Stop the webcam and close all windows when the user presses ‘q’.
 
 ## Program
 
-### Developed By: Hari Priya M
-### Register No: 212224240047
+### Developed By: gokul prakash M
+### Register No: 212223240041
 
 ## i) Write the frame as JPG file
 ```python
